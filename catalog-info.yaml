@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstage-test-lib
   description: |
-    Backstage is an open-source developer portal that puts the developer experience first.
+    Update description to see if it is automatically reflected in the system.
   links:
     - title: Website
       url: http://backstage.io
